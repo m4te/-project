@@ -1,2 +1,4 @@
-# -project
-NOT project.for some testing purposes
+# !project
+NOT project. some kinda testing purposes
+
+nothing's here trust me
